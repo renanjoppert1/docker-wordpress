@@ -1,0 +1,6 @@
+dump_*
+node_modules
+.docker
+!dump_local.sql
+!dump_original.sql
+.env
